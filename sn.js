@@ -1,1 +1,1 @@
-windpw.alert("henwlekufw lsdhjbcfsjhc");    
+windpw.alert("Hello From js ");
