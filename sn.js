@@ -1,1 +1,0 @@
-windpw.alert("Hello From js ");
